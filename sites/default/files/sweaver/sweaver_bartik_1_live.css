@@ -1,0 +1,30 @@
+#name-and-slogan #site-slogan {
+  font-family: 'Comic Sans MS',Cursive;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-width: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: #b000b0;
+  border-right-color: #b000b0;
+  border-bottom-color: #b000b0;
+  border-left-color: #b000b0;
+  background-color: #696969;
+}
+
+a span {
+  text-decoration: none;
+  font-size: 30px;
+  font-family: 'Palatino Linotype',Palatino,Serif;
+  font-weight: bold;
+}
+
