@@ -1,0 +1,6 @@
+name = Sum
+description = Displays the sum of two numbers using a form for input.
+package = Epicodus
+core = 7.x
+files[] = sum.module
+stylesheets[all][] = styles.css
